@@ -63,6 +63,6 @@
     "animate-value": "^1.1.0",
     "muilessium": "1.0.3",
     "postprocessing": "6.5.1",
-    "three": "0.106.2"
+    "three": "0.125.0"
   }
 }
